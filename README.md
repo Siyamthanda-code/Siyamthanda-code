@@ -19,6 +19,8 @@ I'm dedicated, detail-oriented, and always eager to learn and grow. In my journe
 
 Feel free to explore my repositories and connect with me!
 
+## 💻Tech Stack
+
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/siyamthanda-buthelezi-7a4a8622a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Email](siyamthanda917@gmail.com)
