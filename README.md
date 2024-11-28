@@ -2,6 +2,10 @@
 
 I'm a graduate in Management Information Systems (MIS) from the University of Zululand. With a strong foundation in software development, system design, and data analysis, I am passionate about leveraging technology to create innovative solutions that drive business success.
 
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=Siyamthanda-code&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+
 ## 🛠️ Key Skills
 - **Programming Languages**: HTML, CSS, Python, JavaScript
 - **Database Management**: Firebase, Relational Databases, SQL (Querying and Data Modeling)
