@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there, I'm Siyamthanda! 👋
 
-<!--
-**Siyamthanda-code/Siyamthanda-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a graduate in Management Information Systems (MIS) from the University of Zululand. With a strong foundation in software development, system design, and data analysis, I am passionate about leveraging technology to create innovative solutions that drive business success.
 
-Here are some ideas to get you started:
+## 🛠️ Key Skills
+- **Programming Languages**: HTML, CSS, Python, JavaScript
+- **Database Management**: Firebase, Relational Databases, SQL (Querying and Data Modeling)
+- **System Design & Analysis**
+- **Network Simulation**: Packet Tracer (IoT Simulation)
+- **Data Analysis**
+- **Linux Fundamentals**
+- **Computer Literate**: Microsoft Office
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm dedicated, detail-oriented, and always eager to learn and grow. In my journey to own a small business, I've developed a keen interest in using technology to enhance operational efficiency and create value.
+
+Feel free to explore my repositories and connect with me!
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/siyamthanda-buthelezi-7a4a8622a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Email](siyamthanda917@gmail.com)
