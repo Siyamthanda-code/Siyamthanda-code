@@ -7,13 +7,19 @@ I'm a graduate in Management Information Systems (MIS) from the University of Zu
 
 
 ## 🛠️ Key Skills
-- **Programming Languages**: HTML, CSS, Python, JavaScript
-- **Database Management**: Firebase, Relational Databases, SQL (Querying and Data Modeling)
-- **System Design & Analysis**
-- **Network Simulation**: Packet Tracer (IoT Simulation)
-- **Data Analysis**
-- **Linux Fundamentals**
-- **Computer Literate**: Microsoft Office
+•	**Computer Literacy**: Proficient in Microsoft Office Suite (Word, Excel, PowerPoint, Outlook, Access, OneNote, Visio) and other productivity tools.
+•	**Software Development**: Proficient in Visual Studio 2017 and Visual Studio Code.
+•	**Web Development**: Experienced in developing web applications using Git Pages, EmailJS and responsive design principles.
+•	**System Analysis & Design**: Strong foundation in analyzing and designing information systems.
+•	**Networking**: Experience with Packet Tracer for network and IoT simulations.
+•	**Programming Languages**: Proficient in HTML, CSS, Python, and JavaScript.
+•	**Frameworks and Libraries**: Familiar with TKinter, jQuery, NumPy and Numexpr for application development.
+•	**Database Management & SQL**: Proficient in database design, development, and management using relational databases (MySQL), NoSQL databases (Firebase), and SQL programming for querying and data modeling.
+•	**Data Analysis**: Competent in analyzing data to derive insights.
+•	**Linux Fundamentals**: Basic Understanding of Linux operating systems.
+•	**Cloud Storage**: Experienced in OneDrive.
+•	**Collaboration**: Skilled in Microsoft Teams and Git for version control.
+
 
 I'm dedicated, detail-oriented, and always eager to learn and grow. In my journey to own a small business, I've developed a keen interest in using technology to enhance operational efficiency and create value.
 
