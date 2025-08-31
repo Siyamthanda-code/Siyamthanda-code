@@ -1,4 +1,4 @@
-## Hi there, I'm Siyamthanda! 👋
+## Hi there, I'm Siyamthanda! 👋🏽
 
 - Motivated and detail-oriented with a strong academic foundation in Information Systems and Computer Science. 
 - Passionate about leveraging technology for innovative solutions and business growth, with a keen commitment to continuous learning and professional development.
