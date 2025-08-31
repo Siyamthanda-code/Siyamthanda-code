@@ -1,29 +1,9 @@
 ## Hi there, I'm Siyamthanda! 👋
 
-I'm a graduate in Management Information Systems (MIS) from the University of Zululand. With a strong foundation in software development, system design, and data analysis, I am passionate about leveraging technology to create innovative solutions that drive business success.
+Motivated and detail-oriented Management Information Systems graduate with a strong academic foundation in Information Systems and Computer Science. Passionate about leveraging technology for innovative solutions and business growth, with a keen commitment to continuous learning and professional development.
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=Siyamthanda-code&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-
-## 🛠️ Key Skills
--	**Computer Literacy**: Proficient in Microsoft Office Suite (Word, Excel, PowerPoint, Outlook, Access, OneNote, Visio) and other productivity tools.
--	**Software Development**: Proficient in Visual Studio 2017 and Visual Studio Code.
--	**Web Development**: Experienced in developing web applications using Git Pages, EmailJS and responsive design principles.
--	**System Analysis & Design**: Strong foundation in analyzing and designing information systems.
--	**Networking**: Experience with Packet Tracer for network and IoT simulations.
--	**Programming Languages**: Proficient in HTML, CSS, Python, and JavaScript.
--	**Frameworks and Libraries**: Familiar with TKinter, jQuery, NumPy and Numexpr for application development.
--	**Database Management & SQL**: Proficient in database design, development, and management using relational databases (MySQL), NoSQL databases (Firebase), and SQL programming for querying and data modeling.
--	**Data Analysis**: Competent in analyzing data to derive insights.
--	**Linux Fundamentals**: Basic Understanding of Linux operating systems.
--	**Cloud Storage**: Experienced in OneDrive.
--	**Collaboration**: Skilled in Microsoft Teams and Git for version control.
-
-
-I'm dedicated, detail-oriented, and always eager to learn and grow. In my journey to own a small business, I've developed a keen interest in using technology to enhance operational efficiency and create value.
-
-Feel free to explore my repositories and connect with me!
 
 ## 💻Tech Stack
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
