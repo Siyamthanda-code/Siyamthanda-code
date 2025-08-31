@@ -1,7 +1,7 @@
 ## Hi there, I'm Siyamthanda! 👋
 
-#### Motivated and detail-oriented with a strong academic foundation in Information Systems and Computer Science. 
-#### Passionate about leveraging technology for innovative solutions and business growth, with a keen commitment to continuous learning and professional development.
+- Motivated and detail-oriented with a strong academic foundation in Information Systems and Computer Science. 
+- Passionate about leveraging technology for innovative solutions and business growth, with a keen commitment to continuous learning and professional development.
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=Siyamthanda-code&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
