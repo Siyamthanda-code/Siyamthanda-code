@@ -1,7 +1,11 @@
 ## Hi there, I'm Siyamthanda! 👋🏽
 
-- Motivated and detail-oriented with a strong academic foundation in Information Systems and Computer Science. 
-- Passionate about leveraging technology for innovative solutions and business growth, with a keen commitment to continuous learning and professional development.
+- Detail-oriented Data Analyst with a strong foundation in CRM management and business operations. 
+- Information Systems and Computer Science Major. [BCom in Management Information Systems]
+- Proficient in end-to-end data management tasks, including Salesforce extraction, routine cleaning, and reporting.
+- Adept at translating complex datasets into clear performance metrics for stakeholders using descriptive statistics and data visualization on Power BI.
+- Proven ability to identify system inefficiencies, implement data quality improvements, and engineer workflow automation solutions to optimize business processes in fast-paced environments.
+
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=Siyamthanda-code&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -42,6 +46,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)<br/>
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)
 
 
 ## 📫 Let's Connect
